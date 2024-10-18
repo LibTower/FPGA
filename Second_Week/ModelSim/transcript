@@ -1,0 +1,41 @@
+# Break key hit
+# Compile of counter_enbl.sv was successful.
+# Compile of trigger_x.sv was successful.
+# Compile of cnt_en_testbanch.sv was successful.
+# 3 compiles, 0 failed with no errors.
+vsim -gui work.cnt_en_testbanch
+# vsim -gui work.cnt_en_testbanch 
+# Start time: 22:16:17 on Oct 18,2024
+# Loading sv_std.std
+# Loading work.cnt_en_testbanch
+# Loading work.trigger_x
+# Loading work.counter_enbl
+add wave sim:/cnt_en_testbanch/*
+add list sim:/cnt_en_testbanch/*
+add wave sim:/cnt_en_testbanch/*
+# Compile of counter_enbl.sv was successful.
+# Compile of trigger_x.sv was successful.
+# Compile of cnt_en_testbanch.sv was successful.
+# 3 compiles, 0 failed with no errors.
+# Compile of counter_enbl.sv was successful.
+# Compile of trigger_x.sv was successful.
+# Compile of cnt_en_testbanch.sv was successful.
+# 3 compiles, 0 failed with no errors.
+# Load canceled
+vsim -gui work.cnt_en_testbanch
+# End time: 22:22:42 on Oct 18,2024, Elapsed time: 0:06:25
+# Errors: 0, Warnings: 11
+# vsim -gui work.cnt_en_testbanch 
+# Start time: 22:22:42 on Oct 18,2024
+# Loading sv_std.std
+# Loading work.cnt_en_testbanch
+# Loading work.trigger_x
+# Loading work.counter_enbl
+add wave sim:/cnt_en_testbanch/#ASSIGN#28/*
+add wave sim:/cnt_en_testbanch/#ASSIGN#28/*
+add wave sim:/cnt_en_testbanch/#ASSIGN#28/*
+run -all
+# Break key hit
+# Break in Module cnt_en_testbanch at C:/Users/khaba/Desktop/FPGA/Lab2/Lab2ModelSim/cnt_en_testbanch.sv line 24
+# End time: 22:36:38 on Oct 18,2024, Elapsed time: 0:13:56
+# Errors: 0, Warnings: 2

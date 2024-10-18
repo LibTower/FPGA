@@ -1,0 +1,86 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcnt_en_testbanch
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1729264904
+!i10b 1
+!s100 L0KZB_Zj5^j3DN4@`f`m62
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+I?6SX6UPK0ael]`7fEoUNX3
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+S1
+Z4 dC:/Users/khaba/Desktop/FPGA/Lab2/Lab2ModelSim
+w1727335767
+8C:/Users/khaba/Desktop/FPGA/Lab2/Lab2ModelSim/cnt_en_testbanch.sv
+FC:/Users/khaba/Desktop/FPGA/Lab2/Lab2ModelSim/cnt_en_testbanch.sv
+!i122 13
+L0 2 46
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z6 !s108 1729264904.000000
+!s107 C:/Users/khaba/Desktop/FPGA/Lab2/Lab2ModelSim/cnt_en_testbanch.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/khaba/Desktop/FPGA/Lab2/Lab2ModelSim/cnt_en_testbanch.sv|
+!i113 1
+Z7 o-work work -sv
+Z8 tCvgOpt 0
+vcounter_enbl
+R0
+R1
+!i10b 1
+!s100 ZJ^gL0D?b7]3COK@<Rk;90
+R2
+IU;j?>;^RnLBYADI5oe_^T0
+R3
+S1
+R4
+Z9 w1727335534
+8C:/Users/khaba/Desktop/FPGA/Lab2/Lab2Quartus/counter_enbl.sv
+FC:/Users/khaba/Desktop/FPGA/Lab2/Lab2Quartus/counter_enbl.sv
+!i122 11
+L0 2 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/khaba/Desktop/FPGA/Lab2/Lab2Quartus/counter_enbl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/khaba/Desktop/FPGA/Lab2/Lab2Quartus/counter_enbl.sv|
+!i113 1
+R7
+R8
+vtrigger_x
+R0
+R1
+!i10b 1
+!s100 6R:W7NKc9h[`Z_Pe=[]QO3
+R2
+IR9eWZ=hTlWPXFb9`e2IRl0
+R3
+S1
+R4
+R9
+8C:/Users/khaba/Desktop/FPGA/Lab2/Lab2Quartus/trigger_x.sv
+FC:/Users/khaba/Desktop/FPGA/Lab2/Lab2Quartus/trigger_x.sv
+!i122 12
+L0 1 16
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/khaba/Desktop/FPGA/Lab2/Lab2Quartus/trigger_x.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/khaba/Desktop/FPGA/Lab2/Lab2Quartus/trigger_x.sv|
+!i113 1
+R7
+R8
